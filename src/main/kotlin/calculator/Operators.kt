@@ -3,7 +3,7 @@ package com.github.kzfor.test.caluclator.calculator
 import com.github.kzfor.test.caluclator.calculator.exceptions.NotSupportedOperationException
 
 /**
- * Class with abstract methods which work with Operator
+ * Class with static methods which work with Operator
  *
  * @see Operator
  */

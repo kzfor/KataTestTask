@@ -1,7 +1,7 @@
 package com.github.kzfor.test.caluclator.roman.digits
 
 /**
- * Class with abstract methods for roman digits
+ * Class with static methods for roman digits
  */
 class RomanDigits {
     companion object {
